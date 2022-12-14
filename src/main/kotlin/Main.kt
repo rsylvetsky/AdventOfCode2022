@@ -1,7 +1,7 @@
 fun main(args: Array<String>) {
 
-    val day3 = Day3()
+    val day6 = Day6()
 
-    println(day3.part2("Day3"))
+    println(day6.part2("Day6"))
 
 }
